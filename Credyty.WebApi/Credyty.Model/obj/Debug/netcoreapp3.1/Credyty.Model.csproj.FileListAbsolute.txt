@@ -1,0 +1,15 @@
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\bin\Debug\netcoreapp3.1\Credyty.Model.deps.json
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\bin\Debug\netcoreapp3.1\Credyty.Model.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.AssemblyInfoInputs.cache
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.AssemblyInfo.cs
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\bin\Debug\netcoreapp3.1\Credyty.Model.runtimeconfig.json
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\bin\Debug\netcoreapp3.1\Credyty.Model.runtimeconfig.dev.json
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\bin\Debug\netcoreapp3.1\Credyty.Model.pdb
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\bin\Debug\netcoreapp3.1\Credyty.Entidades.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\bin\Debug\netcoreapp3.1\Credyty.Entidades.pdb
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.csproj.CopyComplete
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.pdb
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Model\obj\Debug\netcoreapp3.1\Credyty.Model.genruntimeconfig.cache

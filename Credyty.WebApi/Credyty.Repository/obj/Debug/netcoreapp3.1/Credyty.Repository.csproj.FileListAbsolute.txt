@@ -1,0 +1,16 @@
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.Repository.deps.json
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.Repository.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.Repository.pdb
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.CustomTypes.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.Entidades.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.Model.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.CustomTypes.pdb
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.Model.pdb
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\bin\Debug\netcoreapp3.1\Credyty.Entidades.pdb
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\obj\Debug\netcoreapp3.1\Credyty.Repository.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\obj\Debug\netcoreapp3.1\Credyty.Repository.AssemblyInfoInputs.cache
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\obj\Debug\netcoreapp3.1\Credyty.Repository.AssemblyInfo.cs
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\obj\Debug\netcoreapp3.1\Credyty.Repository.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\obj\Debug\netcoreapp3.1\Credyty.Repository.csproj.CopyComplete
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\obj\Debug\netcoreapp3.1\Credyty.Repository.dll
+D:\Documentos\Proyectos\Credyty\Credyty.WebApi\Credyty.Repository\obj\Debug\netcoreapp3.1\Credyty.Repository.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Credyty.CustomTypes\Credyty.CustomTypes.csproj" />
+    <ProjectReference Include="..\Credyty.Repository\Credyty.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
